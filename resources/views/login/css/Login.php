@@ -41,6 +41,7 @@
         0 10px rgba(0,0,0,0.3);letter-spacing:1px;text-align:center; padding:10px}
 
         input {
+            direction: rtl;
             width: 100%;
             margin-bottom: 10px;
             background: rgba(0,0,0,0.3);
